@@ -52,4 +52,3 @@ python metrics.py -m <model path>
 ```
 
 
-```
