@@ -23,7 +23,8 @@
 |------------------------|----------------|--------|--------|--------|------------------------|--------|--------|--------|
 |                        | Init Points    | PSNR ↑ | SSIM ↑ | LPIPS ↓ | Init Points            | PSNR ↑ | SSIM ↑ | LPIPS ↓ |
 | Mip-NeRF 360 - flowers | 2979           | 11.46  | 0.242  | 0.763   | 18222                 | **11.58** | 0.242   | **0.751** |
-
+### Figure 2: More Qualitative Comparison Results on NVS
+![teaser](assets/compare.jpg)
 ### Figure 3: Qualitative comparison of 3D Gaussians during 3DGS training process. The left column shows the ground truth images. The middle column presents 3D Gaussians from 3DGS*, while the right column shows 3D Gaussians generated using our MOGP.
 ![teaser](assets/difference.jpg)
 
